@@ -1,1 +1,2 @@
-Bom dia
+Good morning 
+How are you?
